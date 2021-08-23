@@ -6,7 +6,8 @@
 - 💬 Ask me about **PHP**
 
 - 📫 How to reach me **myintthwaykhine127@gmail.com**
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1d3rzz&show_icons=true&theme=tokyonight)
+
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1d3rzz&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
