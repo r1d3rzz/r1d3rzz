@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP & Vue**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Laravel** & **Vue**
 
 - 📫 How to reach me **myintthwaykhine127@gmail.com**
 
