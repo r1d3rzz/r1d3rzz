@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Myint Thway Khine (r1d3rzz)</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **PHP & Vue**
+- 🌱 I’m currently learning **C# Core MVC & React**
 
 - 💬 Ask me about **Laravel** & **Vue**
 
